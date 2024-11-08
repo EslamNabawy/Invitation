@@ -1,7 +1,6 @@
 # invite
 
-A new Flutter project.
-
+Engagement Invitation 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
